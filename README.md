@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+I am an analyst that wants to be more self sufficent.
+
